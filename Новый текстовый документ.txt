@@ -1,1 +1,0 @@
-<iframe src="https://www.google.com/maps/d/embed?mid=1MVAq9mNSxuLUzXaLKm1VEUuMJvHBEG4F&hl=ru" width="640" height="480"></iframe>
